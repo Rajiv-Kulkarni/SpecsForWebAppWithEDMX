@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CT3Application.Web.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DEVDBUserId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GSEngTools</Value>
+    </Setting>
+    <Setting Name="DEVDBPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">G$EngT00ls</Value>
+    </Setting>
+    <Setting Name="DEVApplicationEnvironment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dev</Value>
+    </Setting>
+    <Setting Name="CommonDEVDBUserId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GSEngTools</Value>
+    </Setting>
+    <Setting Name="CommonDEVDBPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">G$EngT00ls</Value>
+    </Setting>
+    <Setting Name="CommonDEVDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">global_schema</Value>
+    </Setting>
+    <Setting Name="DEVDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">testdb</Value>
+    </Setting>
+    <Setting Name="DEVServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="CommonDEVServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="SPECSServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="SPECSDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">testdb_specs</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
